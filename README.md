@@ -33,7 +33,7 @@ After sort the drops, I began to merge the overlapping drops. I compare the neig
 
 Finally, we are going to check the drops if fully covered. Because all the ranges start inside the range of sidewalk, so when fully covered, it should have only one drop in our list. Check this drop if full cover the sidewalk.
 
-### Conclusion
+## Conclusion
 
 The key problem of this question is about how to combine the list of ranges. The best solution is ordering them firstly, then combining them from first to end.
 
