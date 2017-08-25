@@ -29,7 +29,6 @@ def all_wet_after_drop?(drop)
   @drops = @drops ? @drops << drop : [drop]
   @drops = sort @drops
   @drops = merge @drops
-  puts @drops
   fullcover? @drops
 end
 
